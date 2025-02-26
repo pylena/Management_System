@@ -38,6 +38,8 @@ public class Main {
 
         // from main branch
         System.out.println("created from main branch");
+        // GitHub Collaboration & Merge Conflict Resolution
+        System.out.println("created from new Branch");
 
 
     }
