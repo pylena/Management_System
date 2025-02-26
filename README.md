@@ -19,9 +19,9 @@ OrderManager.java – Manages orders, updates order status using multithreading,
 * GitHub Collaboration & Merge Conflict Resolution
   Merge Conflict Scenario:
   We intentionally created a merge conflict.by modifying the same section of code in different branches (Master and newFeature).
-  * Conflict Details:
+  ##### Conflict Details:
   ![image](https://github.com/user-attachments/assets/6c9af641-64c2-4895-ae3f-bc87dc1a5f61)
-  * Resolution:
+  ##### Resolution:
   ![image](https://github.com/user-attachments/assets/395cfe09-614d-41d7-96f6-b52c8f4ba281)
 
 #### Technologies Used
@@ -31,11 +31,11 @@ Git & GitHub – Version control & collaboration
 
 How to Run the Project
 Prerequisites
-1.Ensure you have:
-✅ Java 17+ installed
-✅ Git installed
+ Ensure you have:
+* Java 17+ installed
+* Git installed
 
-2.Clone the Repository
+* Clone the Repository
 git clone https://github.com/pylena/Mangement_System.git
 
 
